@@ -1,4 +1,6 @@
-# AngularPixijsIssue8794
+# Angular PixiJS Issue #8794
+
+See https://github.com/pixijs/pixijs/issues/8794
 
 Reproduction steps from this repository:
 
